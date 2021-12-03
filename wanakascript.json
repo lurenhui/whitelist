@@ -1,0 +1,8 @@
+{
+    accountList: [
+        {
+            acc: 'lclscofield@foxmail.com',
+            isWhite: 'Y'
+        },
+    ]
+}
