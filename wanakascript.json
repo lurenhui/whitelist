@@ -1,8 +1,8 @@
 {
-    accountList: [
+    'accountList': [
         {
-            acc: 'lclscofield@foxmail.com',
-            isWhite: 'Y'
+            'acc': 'lclscofield@foxmail.com',
+            'isWhite': 'Y'
         },
     ]
 }
