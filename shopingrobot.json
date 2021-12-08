@@ -3,6 +3,10 @@
         {
             "address": "0x975351193a4aD1051c45Bb420b72A92F63D56246",
             "isWhite": "Y"
+        },
+        {
+            "address": "0x578F104783270524040fc5e25587E937188C906a",
+            "isWhite": "Y"
         }
     ]
 }
